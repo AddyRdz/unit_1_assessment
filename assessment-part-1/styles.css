@@ -1,1 +1,26 @@
-/* Insert Css Here */
+h1{
+    text-align: center;
+}
+
+#buttons,.section{
+    text-align: center;
+}
+
+.buttonPlus{
+    font-weight: bold;
+}
+
+.buttonMinus{
+    font-weight: bold;
+}
+
+#result,.section{
+    text-align: center;
+    color: black;
+}
+
+.numbersShown{
+    text-align: center;
+    font-size: medium;
+    color: black;
+}
